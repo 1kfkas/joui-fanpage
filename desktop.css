@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    background-image: url(images/imageBackground.jpg);
+    backface-visibility: 100%;
+    background-size: 100%;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 238, 238);
+}
+
+img{
+     border-radius: 2%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.quem-foi{
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    text-justify: inter-word;
+}
